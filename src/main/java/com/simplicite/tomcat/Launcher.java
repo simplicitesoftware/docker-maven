@@ -7,7 +7,7 @@ import org.apache.catalina.startup.Tomcat;
 
 public class Launcher {
         private int port = 8080;
-        private String rootPath = "app";
+        private String rootPath = "webapps/ROOT";
 
         public Launcher() throws Exception {
         }

@@ -10,7 +10,7 @@ Have a Java JDK, Apache Maven and Docker installed.
 
 Get the Simplicit&eacute;&reg; `x.y` sandbox template from our GIT repository
 (see [simplicite.io website](http://www.simplicite.io) for details on how to get access to this repository)
-and copy the `<Simplicit&eacute;&reg; x.y sandbox template location>/app` in this folder.
+and copy the `<Simplicit&eacute;&reg; x.y sandbox template location>/app` in this folder as `webapps/ROOT`.
 
 Build image
 -----------
