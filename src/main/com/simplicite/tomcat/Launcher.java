@@ -1,3 +1,5 @@
+package com.simplicite.tomcat;
+
 import java.io.File;
 import java.io.FileOutputStream;
 
