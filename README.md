@@ -28,6 +28,6 @@ Run image
 
 Run the image with:
 
-	 sudo docker run -it --rm -p 8080:8080 <image name and tag, e.g. simplicite/sandbox:x.y>
+	sudo docker run -it --rm -p 8080:8080 <image name and tag, e.g. simplicite/sandbox:x.y>
 
 Then you can connect on `http://localhost:8080`
